@@ -1,7 +1,6 @@
-from calendar import monthcalendar
-from unicodedata import lookup
-
-from sympy.physics.optics import lens_formula
+# from calendar import monthcalendar
+# from unicodedata import lookup
+# from sympy.physics.optics import lens_formula
 
 
 # 1. Given an integer array nums, return true if any value appears more than once in the array, otherwise return false.
@@ -230,7 +229,7 @@ import heapq
 #         if left != right:
 #             return False
 #     return True
-# s = "Was it a car or a cat I saw?"
+# s = "liril"
 # print(isPalindrome(s))
 
 #-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -260,4 +259,5 @@ import heapq
 # print(two_sum(numbers, target))
 
 #-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
